@@ -1,0 +1,55 @@
+{
+  "Informacion": {
+    "Contact": {
+      "BusinessName": "",
+      "Address": {
+        "Street": "",
+        "City": "",
+        "State": "",
+        "ZipCode": ""
+      },
+      "Phone": "",
+      "Email": "",
+      "Website": ""
+    },
+    "Mail": {
+      "BillTo": {
+        "ClientName": "",
+        "Address": {
+          "Street": "",
+          "City": "",
+          "State": "",
+          "ZipCode": ""
+        }
+      },
+      "ShipTo": {
+        "ClientName": "",
+        "Address": {
+          "Street": "",
+          "City": "",
+          "State": "",
+          "ZipCode": ""
+        }
+      },
+      "Details": {
+        "InvoiceNumber": "",
+        "Date": "",
+        "Terms": "",
+        "DueDate": ""
+      }
+    },
+    "Sales": {
+      "Type": "",
+      "Description": "",
+      "Qty": "",
+      "Rate": "",
+      "Amount": ""
+    },
+    "Total": {
+      "Subtotal": "",
+      "SalesTax": "",
+      "Shipping": "",
+      "TotalPay": ""
+    }
+  }
+}

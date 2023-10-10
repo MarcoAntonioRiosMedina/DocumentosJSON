@@ -1,0 +1,34 @@
+{
+  "menu-desayunos": {
+    "gofres-belgas": [
+      {
+        "nombre": "gofres-belgas",
+        "precio": "5.95 EUROS",
+        "descripcion": "Dos de nuestros famosos Gofres belgas con abundante sirope",
+        "Calorias": "650 calorías"
+      },
+      {
+        "nombre": "gofres-belgas-fresa",
+        "precio": "7.95 EUROS",
+        "descripcion": "Ligeros Gofres belgas cubiertos de fresas y nata montada",
+        "Calorias": "900 calorías"
+      },
+      {
+        "nombre": "gofres-belgas-frutos-del-bosque",
+        "precio": "8.95 EUROS",
+        "descripcion": "Ligeros gofres belgas cubiertos con frutos del bosque y nata montada",
+        "Calorias": "900 calorías"
+      }
+    ],
+    "tostada-francesa": {
+      "precio": "4.50 EUROS",
+      "descripcion": "Dos gruesas rebanadas de nuestro pan francés casero",
+      "Calorias": "600 calorías"
+    },
+    "desayuno-de-la-casa": {
+      "precio": "6.95 EUROS",
+      "descripcion": "Dos huevos, con bacon o salchicha, tostada y patatas fritas",
+      "Calorias": "950 calorías"
+    }
+  }
+}
